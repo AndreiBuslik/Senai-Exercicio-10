@@ -14,9 +14,9 @@ As questões são:
      
   4) A empresa ABC resolveu conceder um aumento de salários a seus funcionários de acordo com a tabela abaixo:
           
-         <img alt="Tabela com faixas de salário e percentual de aumento no salário" src="./Tabela_Quest%C3%A3o_4.PNG">
+         <img alt="Tabela com faixas de salário e percentual de aumento no salário" src="./Tabela_Questão_4.PNG">
           
   5) Leia um valor com duas casas decimais, equivalente ao salário de uma pessoa de Lisarb. Em seguida, calcule e mostre o valor que esta pessoa deve pagar de Imposto de Renda, 
      segundo a tabela abaixo.
           
-         <img alt="Tabela com faixas de salário e percentual de imposto de renda cobrado" src="./Tabela_Quest%C3%A3o_5.PNG">
+         <img alt="Tabela com faixas de salário e percentual de imposto de renda cobrado" src="./Tabela_Questão_5.PNG">
