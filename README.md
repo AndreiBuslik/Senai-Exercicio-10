@@ -25,7 +25,7 @@ As questões são:
 
      
 
-     ​		![Tabela com faixas de salário e percentual de imposto de renda cobrado]((https://github.com/AndreiBuslik/Senai-Exercicio-10/blob/main/images/Tabela_Quest%C3%A3o_5.PNG))
+     ​		![Tabela com faixas de salário e percentual de imposto de renda cobrado](https://github.com/AndreiBuslik/Senai-Exercicio-10/blob/main/images/Tabela_Quest%C3%A3o_5.PNG)
 
 
 
