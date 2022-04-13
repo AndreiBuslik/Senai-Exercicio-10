@@ -1,6 +1,6 @@
-# Senai-Exercicio-10
+# Senai-Exercício-10
 
-Este exercício é parte do curso de Desenvolvedor Front-End no Senai. Consiste em fazer funcionar cada questão utilizando JavaScript.
+Este exercício é parte do curso de Desenvolvedor Front-End no Senai. Consiste em fazer funcionar cada questão utilizando *JavaScript*.
 As questões são:
 
   1. Leia 3 valores, no caso, variáveis A, B e C, que são as três notas de um aluno. A seguir, calcule a média do aluno, sabendo que a nota A tem peso 2, a nota B tem peso 3 e a 
@@ -16,7 +16,7 @@ As questões são:
 
        
 
-       ![Tabela com salários e reajustes](https://github.com/AndreiBuslik/Senai-Exercicio-10/blob/main/Tabela_Quest%C3%A3o_4.PNG)
+       ​		![Tabela com salários e reajustes](https://github.com/AndreiBuslik/Senai-Exercicio-10/blob/main/Tabela_Quest%C3%A3o_4.PNG)
 
        
 
@@ -25,4 +25,8 @@ As questões são:
 
      
 
-     ![Tabela com faixas de salário e percentual de imposto de renda cobrado](https://github.com/AndreiBuslik/Senai-Exercicio-10/blob/main/Tabela_Quest%C3%A3o_5.PNG)
+     ​		![Tabela com faixas de salário e percentual de imposto de renda cobrado](https://github.com/AndreiBuslik/Senai-Exercicio-10/blob/main/Tabela_Quest%C3%A3o_5.PNG)
+
+
+
+O resultado final pode ser visto [aqui](https://andreibuslik.github.io/Senai-Exercicio-10/).
